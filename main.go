@@ -1,7 +1,7 @@
 package main
 import (
 	"flag"
-	"sobel-performance-ranker/submissioneval"
+	"github.com/BenjaminTrapani/sobel-performance-ranker/submissioneval"
 	"math/big"
 )
 
